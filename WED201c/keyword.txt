@@ -1,0 +1,5 @@
+favicon: hình ảnh bé bé ở thanh tiêu đề của trang web ví dụ chữ
+ c coursera, chữ n nettruyen
+href: hyper reference
+địa chỉ tệp phải  đổi hết \ thành /
+abbrevation: thẻ viết tắt
